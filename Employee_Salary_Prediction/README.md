@@ -74,7 +74,7 @@ The project uses an Employee Salary dataset containing features such as:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Employee_Salary_Prediction.git
+git clone https://github.com/manishmanimidipally/Data_Science_Projects/tree/main/Employee_Salary_Prediction
 ```
 
 ### Navigate to the Project
